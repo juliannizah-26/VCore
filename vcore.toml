@@ -1,1 +1,8 @@
+[inject]
+enabled = true
+library_x64 = "vcore_mp64.dll"
+library_x86 = "vcore_mp86.dll"
 
+[cloud]
+enabled = true
+library = "cloud_redirect.dll"
