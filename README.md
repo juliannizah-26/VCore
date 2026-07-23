@@ -61,8 +61,9 @@ Tidak. Update ditangani otomatis oleh Steam, sama kayak game yang dibeli.
 **Bisa main multiplayer?**  
 Beberapa game support online lewat OnlineFix DLL. Pake parameter `-onlinefix` di launch option Steam.
 
+**Ko gamunucl gamenya di library steam**  
+Kemungkinan steampath salah dan juga core belum terinstall di tab settings.
+
 ## Lisensi
-
-
 
 Proyek ini untuk tujuan edukasi dan riset semata.
