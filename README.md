@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/juliannizah-26/VCore/main/frontend_dist/public/logo.png" width="80" alt="VCore">
+  <img src="https://github.com/user-attachments/assets/c678ebed-d27f-4a8c-a626-b6a79c34c17b" width="80" alt="VCore">
   <h1>VCore</h1>
 
 
