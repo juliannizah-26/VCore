@@ -39,13 +39,15 @@ Game di-download langsung dari Steam — gak ada file crack.
 
 ## Free vs Premium
 
-| Fitur | Free | Premium / Lifetime |
+| Fitur | Free | Premium |
 |---|---|---|
-| Add per hari | 3 per hari | Unlimited |
-| Inject game | ✅ | ✅ |
-| OnlineFix | ✅ | ✅ |
-| Fixes catalog | ✅ | ✅ |
-| Harga | Rp 0 | Rp 15.000/bulan atau Rp 200.000 lifetime |
+| Add game per hari | 3 per hari | Unlimited |
+| Full katalog game | ✅ | ✅ |
+| OnlineFix & DLC Unlocker | ✅ | ✅ |
+| Versi game terbaru di Steam | ✅ | ✅ |
+| Semua update VCore selanjutnya | — | ✅ |
+| Priority support | — | ✅ |
+| Harga | Rp 0 | Rp 15.000/bulan |
 
 ## FAQ
 
