@@ -7,6 +7,7 @@
     <a href="#fitur">Fitur</a> •
     <a href="#download">Download</a> •
     <a href="#cara-kerja">Cara Kerja</a> •
+    <a href="#reset-hwid">Reset HWID</a> •
     <a href="#faq">FAQ</a>
   </p>
 </div>
@@ -48,6 +49,26 @@ Game di-download langsung dari Steam — gak ada file crack.
 | Semua update VCore selanjutnya | — | ✅ |
 | Priority support | — | ✅ |
 | Harga | Rp 0 | Rp 15.000/bulan |
+
+## Reset HWID
+
+Ganti PC atau reinstall Windows? Akun Premium terkunci ke satu perangkat — reset HWID untuk memindahkan lisensi ke perangkat baru secara mandiri, tanpa bantuan admin.
+
+**🌐 https://vcore.juliannizah.workers.dev/**
+
+### Apa itu HWID?
+
+Setiap install VCore punya **Hardware ID (HWID)** sendiri — semacam sidik jari perangkat. Saat login, HWID diikat ke akun. Akun **Premium** terkunci keras ke satu perangkat: login dari perangkat lain → ditolak sampai HWID di-reset. Akun **Free** pakai model "kick": login dari install baru otomatis memutus perangkat lama.
+
+### Cara reset
+
+1. **Buka** https://vcore.juliannizah.workers.dev/
+2. **Sign in** pakai username + password VCore (atau **Google** kalau akun dibuat lewat Google)
+3. Di tab **Reset HWID**, cek detail lisensi & status cooldown
+4. Centang kotak konfirmasi, klik **Reset** ✅
+5. **Buka VCore di perangkat baru dan login** — HWID baru otomatis terdaftar
+
+Setelah reset: HWID lama dilepas, **semua sesi & device lama dihapus** (perangkat lama ke-kick).
 
 ## FAQ
 
